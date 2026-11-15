@@ -1,0 +1,6 @@
+# lokale Arbeitsdateien
+qr-generator.bak-*.html
+_sicherung/
+dist/
+.claude/
+.DS_Store
